@@ -38,6 +38,13 @@ export default async function LocaleLayout({
 
   return (
     <html lang={locale} suppressHydrationWarning>
+      <head>
+        <script
+          async
+          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8348522960036461"
+          crossOrigin="anonymous"
+        />
+      </head>
       <body>
         <NextIntlClientProvider messages={messages}>
           <ClientLayout>{children}</ClientLayout>

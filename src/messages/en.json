@@ -1,0 +1,62 @@
+{
+  "common": {
+    "appName": "Schulte Grid",
+    "train": "Train",
+    "stats": "Stats",
+    "settings": "Settings",
+    "toggleTheme": "Toggle theme",
+    "close": "Close",
+    "cancel": "Cancel"
+  },
+  "game": {
+    "progress": "Progress",
+    "startHint": "Tap number {start} to begin",
+    "startHintReverse": " (descending)",
+    "restart": "Restart",
+    "completed": "Training Complete",
+    "newBest": "NEW BEST!",
+    "mode": "Mode",
+    "time": "Time",
+    "accuracy": "Accuracy",
+    "avgPerCell": "Avg/Cell",
+    "playAgain": "Play Again",
+    "modeNormal": "Normal",
+    "modeReverse": "Reverse",
+    "modeColor": "Color",
+    "modeDual": "Dual Color",
+    "red": "Red",
+    "blue": "Blue"
+  },
+  "stats": {
+    "title": "Training Stats",
+    "totalSessions": "Total Sessions",
+    "totalTime": "Total Time",
+    "streak": "Day Streak",
+    "personalBest": "Personal Best",
+    "trend": "Trend",
+    "history": "History",
+    "all": "All",
+    "noRecords": "No records yet",
+    "earliest": "Earliest",
+    "latest": "Latest"
+  },
+  "settings": {
+    "title": "Settings",
+    "darkMode": "Dark Mode",
+    "darkModeDesc": "Toggle dark/light theme",
+    "fontSize": "Font Size",
+    "fontSmall": "Small",
+    "fontMedium": "Medium",
+    "fontLarge": "Large",
+    "sound": "Sound",
+    "soundDesc": "Sound feedback on tap and completion",
+    "clearData": "Clear Data",
+    "clearDataDesc": "Delete all training records and settings",
+    "clear": "Clear",
+    "confirmClear": "Confirm Clear",
+    "confirmClearDesc": "This will permanently delete all training records. This cannot be undone.",
+    "confirmDelete": "Confirm Delete",
+    "language": "Language",
+    "languageDesc": "Switch interface language"
+  }
+}

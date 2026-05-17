@@ -1,0 +1,62 @@
+{
+  "common": {
+    "appName": "舒尔特方格",
+    "train": "训练",
+    "stats": "统计",
+    "settings": "设置",
+    "toggleTheme": "切换主题",
+    "close": "关闭",
+    "cancel": "取消"
+  },
+  "game": {
+    "progress": "进度",
+    "startHint": "点击数字 {start} 开始",
+    "startHintReverse": "（从大到小）",
+    "restart": "重新开始",
+    "completed": "训练完成",
+    "newBest": "新纪录！",
+    "mode": "模式",
+    "time": "用时",
+    "accuracy": "正确率",
+    "avgPerCell": "平均每格",
+    "playAgain": "再来一次",
+    "modeNormal": "正序",
+    "modeReverse": "倒序",
+    "modeColor": "颜色干扰",
+    "modeDual": "双色交替",
+    "red": "红",
+    "blue": "蓝"
+  },
+  "stats": {
+    "title": "训练统计",
+    "totalSessions": "总训练次数",
+    "totalTime": "总训练时长",
+    "streak": "连续天数",
+    "personalBest": "个人最佳",
+    "trend": "趋势",
+    "history": "历史记录",
+    "all": "全部",
+    "noRecords": "暂无记录",
+    "earliest": "最早",
+    "latest": "最近"
+  },
+  "settings": {
+    "title": "设置",
+    "darkMode": "深色模式",
+    "darkModeDesc": "切换深色/浅色主题",
+    "fontSize": "字体大小",
+    "fontSmall": "小",
+    "fontMedium": "中",
+    "fontLarge": "大",
+    "sound": "音效",
+    "soundDesc": "点击和完成时的音效反馈",
+    "clearData": "清除数据",
+    "clearDataDesc": "删除所有训练记录和设置",
+    "clear": "清除",
+    "confirmClear": "确认清除",
+    "confirmClearDesc": "此操作将永久删除所有训练记录，无法恢复。",
+    "confirmDelete": "确认删除",
+    "language": "语言",
+    "languageDesc": "切换界面语言"
+  }
+}
